@@ -303,21 +303,21 @@ ML-powered plant health analysis system
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rali22212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rali22212&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00FF88&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-se-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-se-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00FF88&currStreakLabel=00D9FF" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rali22212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-se-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rali22212&bg_color=0D1117&color=00D9FF&line=00FF88&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-se-dev&bg_color=0D1117&color=00D9FF&line=00FF88&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rali22212&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-se-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -428,7 +428,7 @@ ML-powered plant health analysis system
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:00ff88&height=120&section=footer" width="100%"/>
   
-  ### ⭐️ From [Ali Raza](https://github.com/rali22212)
+  ### ⭐️ From [Ali Raza](https://github.com/ali-se-dev)
   
   *"Code is poetry, innovation is passion, research is progress."*
   
